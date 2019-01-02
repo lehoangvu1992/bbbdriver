@@ -6,5 +6,6 @@ AC_CONFIG_FILES([
  Makefile
  cli/Makefile
  src/Makefile
+ src/driver/Makefile
 ])
 AC_OUTPUT
